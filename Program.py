@@ -2,9 +2,9 @@ from UnderTheHood.TreeNode.CreateTree import pottery
 from UnderTheHood.ReadWrite.Json import introduce_files
 from UnderTheHood.ReadWrite.pillow import show_images
 
-print ("\nWelcome to the pottery recomendation program.")
+print ("\nWelcome to the pottery recomendation program. ")
 print ("This will eventually help you make custom orders too.")
-print ("I'll ask a few questions and then show you a few pictures. \n")
+print ("I'll ask a few questions.\n")
 
 classselected = pottery.traverse()
 while True:
